@@ -1,0 +1,10 @@
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\bin\Debug\FoxundermoonLib.dll
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\bin\Debug\FoxundermoonLib.pdb
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Debug\FoxundermoonLib.dll
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Debug\FoxundermoonLib.pdb
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Debug\FoxundermoonLib.csprojResolveAssemblyReference.cache
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\bin\Debug\FoxundermoonLib.dll
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\bin\Debug\FoxundermoonLib.pdb
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Debug\FoxundermoonLib.dll
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Debug\FoxundermoonLib.pdb
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Debug\FoxundermoonLib.csprojResolveAssemblyReference.cache

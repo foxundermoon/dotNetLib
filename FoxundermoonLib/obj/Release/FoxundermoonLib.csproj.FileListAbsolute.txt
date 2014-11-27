@@ -1,0 +1,5 @@
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\bin\Release\FoxundermoonLib.dll
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\bin\Release\FoxundermoonLib.pdb
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Release\FoxundermoonLib.csprojResolveAssemblyReference.cache
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Release\FoxundermoonLib.dll
+D:\foxUnderMoon\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLib\obj\Release\FoxundermoonLib.pdb

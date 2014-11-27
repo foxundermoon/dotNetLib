@@ -1,0 +1,9 @@
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\bin\Debug\FoxundermoonLibTests.dll
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\bin\Debug\FoxundermoonLibTests.pdb
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\bin\Debug\FoxundermoonLib.dll
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\bin\Debug\FoxundermoonLib.pdb
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\obj\Debug\FoxundermoonLibTests.csprojResolveAssemblyReference.cache
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\obj\Debug\FoxundermoonLibTests.dll
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\obj\Debug\FoxundermoonLibTests.pdb
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\obj\Debug\FoxundermoonLibTests.Temp.Form1.resources
+E:\workspace\c#\Lib\FoxundermoonLib\FoxundermoonLibTests\obj\Debug\FoxundermoonLibTests.csproj.GenerateResource.Cache
